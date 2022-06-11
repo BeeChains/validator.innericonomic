@@ -1,6 +1,6 @@
 ## validator.innericonomic | Inner-I-Nomic $NOM Validator
 
-| [InnerICoNomic/](http://innericonomic.hns.is/) | [InnerINetwork/](https://innerinetwork/) | [InnerINetCo/](https://innerinetco/) | [Inner I Nomic Validator invite - Discord](https://discord.gg/89KyeEJ5) | [BTheSpirit - our Keybase profile](https://keybase.io/bthespirit) |
+| [InnerICoNomic/](http://innericonomic.hns.is/) | [InnerINetwork/Nomic](https://innerinetwork/nomic) | [InnerINetCo/](https://innerinetco/) | [InnerINetwork/](https://innerinetwork/) | [Inner I Nomic Validator invite - Discord](https://discord.gg/89KyeEJ5) | [BTheSpirit - our Keybase profile](https://keybase.io/bthespirit) |
 
 # delegate to the Inner-I-Nomic Validator at nomic1rfmrh8mz6ea5g4gmvrqt39sg5v09da3m2ulsuv
 
